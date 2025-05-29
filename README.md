@@ -6,3 +6,5 @@
 #### Outros sensores que podem ser colocados são o sensor de chuva e a boia e um sensor de nível de água tipo boia para o projewto ficar mais completo. Porém não encontrei estes itens no Wokwi
 
 #### Link do projeto no Wokwi --- [https://wokwi.com/projects/432297704966203393](https://wokwi.com/projects/432297704966203393)
+#### Para testar no simulador aperte o play e espere ele rodar, se não der certo, tente de novo que uma hora vai
+
