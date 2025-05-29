@@ -7,5 +7,5 @@
 
 #### Link do projeto no Wokwi --- [https://wokwi.com/projects/432297704966203393](https://wokwi.com/projects/432297704966203393)
 #### Para testar no simulador aperte o play e espere ele rodar, se não der certo, tente de novo que uma hora vai
-![](arduino - gs.png)
+#### ![arduino](https://victorvision.com.br/wp-content/uploads/2021/10/o-que-e-arduino.jpg)
 
