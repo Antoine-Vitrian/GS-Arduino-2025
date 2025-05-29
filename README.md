@@ -1,7 +1,7 @@
 # GS-Arduino-2025
 
 # Integrantes: turma 1ESA
-## Victor Antonio Teixiera da Silva RM: 562573
+## Victor Antonio Teixeira da Silva RM: 562573
 ## Lucas Oliveira de Mendonça Almeida RM: 562613
 
 ## Tema: Enchentes
